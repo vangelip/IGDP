@@ -223,5 +223,5 @@ def plot_monthly_mw_output(year, months):
 
 if __name__ == "__main__":
     year = 2025
-    months = [2]
+    months = [3,4,5]
     plot_monthly_mw_output(year, months)

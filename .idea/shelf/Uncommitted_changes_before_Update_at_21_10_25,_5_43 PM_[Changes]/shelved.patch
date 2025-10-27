@@ -1,0 +1,49 @@
+Index: .idea/material_theme_project_new.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/material_theme_project_new.xml b/.idea/material_theme_project_new.xml
+deleted file mode 100644
+--- a/.idea/material_theme_project_new.xml	(revision f97b1a0fbe8576ad8ef024a53c27da9410db8f83)
++++ /dev/null	(revision f97b1a0fbe8576ad8ef024a53c27da9410db8f83)
+@@ -1,12 +0,0 @@
+-<?xml version="1.0" encoding="UTF-8"?>
+-<project version="4">
+-  <component name="MaterialThemeProjectNewConfig">
+-    <option name="metadata">
+-      <MTProjectMetadataState>
+-        <option name="migrated" value="true" />
+-        <option name="pristineConfig" value="false" />
+-        <option name="userId" value="19128d76:1983155f087:-7ffe" />
+-      </MTProjectMetadataState>
+-    </option>
+-  </component>
+-</project>
+\ No newline at end of file
+Index: .idea/misc.xml
+===================================================================
+diff --git a/.idea/misc.xml b/.idea/misc.xml
+deleted file mode 100644
+--- a/.idea/misc.xml	(revision f97b1a0fbe8576ad8ef024a53c27da9410db8f83)
++++ /dev/null	(revision f97b1a0fbe8576ad8ef024a53c27da9410db8f83)
+@@ -1,6 +0,0 @@
+-<?xml version="1.0" encoding="UTF-8"?>
+-<project version="4">
+-  <component name="Black">
+-    <option name="sdkName" value="Python 3.13 (IGDP)" />
+-  </component>
+-</project>
+\ No newline at end of file
+Index: .idea/.gitignore
+===================================================================
+diff --git a/.idea/.gitignore b/.idea/.gitignore
+deleted file mode 100644
+--- a/.idea/.gitignore	(revision f97b1a0fbe8576ad8ef024a53c27da9410db8f83)
++++ /dev/null	(revision f97b1a0fbe8576ad8ef024a53c27da9410db8f83)
+@@ -1,5 +0,0 @@
+-# Default ignored files
+-/shelf/
+-/workspace.xml
+-# Editor-based HTTP Client requests
+-/httpRequests/
